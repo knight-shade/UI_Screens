@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="devlight">
+        <item>#ffa50a</item>
+        <item>#FF0060</item>
+        <item>#b87400</item>
+        <item>#8f5a00</item>
+    </string-array>
+
+    <string-array name="bg">
+        <item>#64ffa50a</item>
+        <item>#64FF0060</item>
+        <item>#64b87400</item>
+        <item>#648f5a00</item>
+    </string-array>
+
+    <string-array name="polluted_waves">
+        <item>#394948</item>
+        <item>#5a7874</item>
+        <item>#499092</item>
+        <item>#43abae</item>
+    </string-array>
+
+    <string-array name="medical_express">
+        <item>#a3a3a3</item>
+        <item>#bbbbbb</item>
+        <item>#cccccc</item>
+        <item>#dddddd</item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/menu_one</item>
+        <item>@drawable/menu_two</item>
+        <item>@drawable/menu_three</item>
+        <item>@drawable/menu_four</item>
+        <item>@drawable/menu_five</item>
+    </array>
+
+    <array name="colors">
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorBlue</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorPink</item>
+    </array>
+
+
+</resources>

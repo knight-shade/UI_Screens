@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="ToolTipLayoutCustomStyle">
+        <item name="ttlm_padding">25dip</item>
+        <item name="ttlm_backgroundColor">#ffe5a000</item>
+        <item name="ttlm_strokeWeight">2dip</item>
+        <item name="ttlm_cornerRadius">8dip</item>
+        <item name="ttlm_overlayStyle">@style/ToolTipOverlayCustomStyle</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceInverse</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ToolTipOverlayCustomStyle">
+        <item name="android:color">#66ffffff</item>
+        <item name="ttlm_repeatCount">999</item>
+        <item name="ttlm_duration">400</item>
+    </style>
+
+</resources>
